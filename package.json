@@ -21,7 +21,6 @@
   },
   "homepage": "https://github.com/hollaex/ercan-test-1#readme",
   "dependencies": {
-    "@uniswap/sdk": "^3.0.3",
-    
+    "@uniswap/sdk": "^3.0.3"    
   }
 }
