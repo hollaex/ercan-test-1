@@ -1,0 +1,27 @@
+{
+  "name": "deneme",
+  "version": "3.13.93",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "docker-compose up -d --build"
+  },
+  "_moduleAliases": {
+    "@root": "./"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hollaex/ercan-test-1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hollaex/ercan-test-1/issues"
+  },
+  "homepage": "https://github.com/hollaex/ercan-test-1#readme",
+  "dependencies": {
+    "@uniswap/sdk": "^3.0.3",
+    
+  }
+}
